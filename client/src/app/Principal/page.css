@@ -1,0 +1,55 @@
+.img_test{
+  width: 70%;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.test_img{
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.section_right{
+  padding: 20px;
+  width: 30%;
+}
+.div_principal{
+  width: 100%;
+  max-width: 1400px;
+  margin: 20px auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.tl h1{
+  font-size: 10px;
+  margin-top: 5px;
+}
+
+.tx button{
+  background-color: black;
+  color: #FFFFFF;
+  padding: 5px;
+  margin: 6px 8px;
+}
+
+.cx button{
+  background-color: black;
+  color: #FFFFFF;
+  padding: 5px;
+  margin: 6px 8px;
+}
+
+.cx div{
+  display: flex;
+}
+
+.cantidad{
+  align-items: center;
+}
+
+.section_right h1{
+  font-size: 33px;
+}

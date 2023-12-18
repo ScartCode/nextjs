@@ -1,0 +1,36 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.nav_menu{
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 50px;
+  height: 100px;
+  background-color: #000000;
+  color: #ffffff;
+}
+.padding_h2{
+  padding-left: 30px;
+  display: flex;
+  align-items: center;
+}
+.image_text{
+  display: flex;
+  align-items: center;
+}
+.nav_menu ul{
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  color: #ffffff;
+}
+.nav_menu ul li{
+  font-size:1.5rem;
+  list-style: none;
+  font-style: none;
+}
+.design_link{
+  text-decoration: none;
+  color: white;
+}
